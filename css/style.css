@@ -1,0 +1,55 @@
+body {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  margin:0;
+  padding:0;
+}
+
+h1, h2, h3, h4, h5 {
+  line-height: 150%;
+}
+
+header{
+  background-color: #F1F3FF;
+}
+
+.bg-darkblue{
+  background-color: #0D28A6;
+}
+
+.logo {
+  background-color: #0D28A6;
+  width: 100px;
+  height: 34px;
+}
+
+/* .hero {
+  position: absolute;
+  width: 760px;
+  height: 233px;
+  left: 0px;
+  top: 73px;
+  background-color: #0D28A6;
+  border-radius: 50px 0px 0px 0px;
+} */
+
+.hero > img {
+  position: absolute;
+  left: 18px;
+  top: -74px;
+  width: 115%;
+}
+
+.img-custom {
+  position: absolute;
+  left: 100px;
+  top: 20px;
+}
+
+footer i {
+  color: #0D28A6;
+  font-size: x-large;
+}
